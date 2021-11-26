@@ -4,6 +4,10 @@
         "0x6444070d9b4776a2363d1bac287571db11d692eb": {
             "chain": 1,
             "allAddresses": true
+        },
+        "0xbbc36838b7b9C5A052f51477FEA23F1Ec4aAcf0c": {
+            "chain": 1,
+            "allAddresses": true
         }
     }
 }
